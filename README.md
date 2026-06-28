@@ -11,6 +11,10 @@ The central question is:
 
 > Are the birds Kasios claims are Rose-crested Blue Pipits actually consistent with verified Rose-crested Blue Pipit recordings?
 
+## Interactive Tableau Exploration
+
+View the spatial-temporal Tableau story here: [Tableau Public - Wildlife Claims Analysis](https://public.tableau.com/views/ridma_tableau/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Story
 
 The first phase explored the verified bird metadata and Kasios test bird locations in Tableau using `ridma_tableau.twbx`. The Tableau dashboards combine:
