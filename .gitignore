@@ -1,0 +1,22 @@
+# Raw audio data
+all_birds/
+kasios_birds/
+*.mp3
+
+# Generated outputs
+spectral_plots/
+
+# Notebook/runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+~*.twbr
+
+# Python environments
+.venv/
+venv/
+env/
